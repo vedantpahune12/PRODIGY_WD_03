@@ -1,2 +1,4 @@
 # PRODIGY_WD_03
-TIC TAC TOE WEB APPLICATION 
+This repository is to showcase my work as a web developer at prodigy infotech.
+
+#here is a link for the stopwatch website
